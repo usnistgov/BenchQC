@@ -124,4 +124,3 @@ This project is licensed under the NIST License - see the [LICENSE](LICENSE) fil
 For more information, please contact [Nia Pollard](mailto:nia.rodney-pollard@nist.gov).
 ```
 
-Replace `https://github.com/yourusername/quantum_vqe.git` and `your.email@example.com` with your actual GitHub repository URL and email address. This `README.md` provides a comprehensive guide to installing, using, and contributing to your package.
