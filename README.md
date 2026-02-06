@@ -1,6 +1,6 @@
 # BenchQC
 
-quantumBENCH is a Python package for benchmarking quantum computers and their performance of the Variational Quantum Eigensolver (VQE) on chemical systems. This package aims to contribute to materials discovery and design by providing tools for quantum chemistry simulations.
+BenchQC is a Python package for benchmarking quantum computers and their performance of the Variational Quantum Eigensolver (VQE) on chemical systems. This package aims to contribute to materials discovery and design by providing tools for quantum chemistry simulations.
 
 ## Features
 
@@ -13,8 +13,8 @@ quantumBENCH is a Python package for benchmarking quantum computers and their pe
 You can install the package using `pip`. First, clone the repository:
 
 ```bash
-git clone https://github.com/niapollard/quantumBENCH.git
-cd quantumBENCH
+git clone https://github.com/usnistgov/BenchQC.git
+cd BenchQC
 ```
 
 Then install the package:
